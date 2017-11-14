@@ -21,8 +21,8 @@ public class ItemGenerator : MonoBehaviour {
 		//if (transform.position.y > 4.0f) {
 		//CreateEnemie ();
 		//}
-		//var test = transform.position.y;
-		//Debug.Log (test);
+		var test = transform.position.y;
+		Debug.Log (test);
 	}
 
 
